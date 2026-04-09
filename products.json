@@ -28,7 +28,8 @@
       "description": "日本酒（一般）、秋田、新潟の3チャートセット",
       "version": "1.0",
       "productId": "sake-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -51,7 +52,8 @@
       "description": "ビール（日本）、クラフトビール（日本）の2チャートセット",
       "version": "1.0",
       "productId": "beer-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/beer-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/beer-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -94,7 +96,8 @@
       "description": "GBA、PS1、PS2、SFC、MD、PCEの6チャートセット",
       "version": "1.0",
       "productId": "retro-game-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -122,7 +125,8 @@
       "description": "赤ワイン、白ワイン、スパークリングの3チャートセット",
       "version": "1.0",
       "productId": "wine-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -145,7 +149,8 @@
       "description": "コーヒー豆、RTD（缶・ペット）の2チャートセット",
       "version": "1.0",
       "productId": "coffee-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -178,7 +183,8 @@
       "description": "バーボン、日本、スコッチ、焼酎の4チャートセット",
       "version": "1.0",
       "productId": "whisky-shochu-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-shochu-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-shochu-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -211,7 +217,8 @@
       "description": "カップ麺、袋麺、冷凍、チェーン店の4チャートセット",
       "version": "1.0",
       "productId": "ramen-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -234,7 +241,8 @@
       "description": "日本茶（一般）、ペットボトル緑茶の2チャートセット",
       "version": "1.0",
       "productId": "tea-pack-v1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-pack-v1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-pack-v1.ggchartpkg",
+      "discountPercent": 10
     },
     {
       "includedCharts": [
@@ -252,7 +260,8 @@
       "description": "コーヒー（豆）",
       "version": "1.0",
       "productId": "coffee-beans",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-beans.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-beans.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -270,7 +279,8 @@
       "description": "コーヒー（缶・ペットボトル：2026年4月）",
       "version": "1.0",
       "productId": "coffee-rtd-202604",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-rtd-202604.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-rtd-202604.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -288,7 +298,8 @@
       "description": "クラフトビール（日本で手に入りやすいもの）",
       "version": "1.0",
       "productId": "craft-beer-japan",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/craft-beer-japan.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/craft-beer-japan.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -306,7 +317,8 @@
       "description": "ラーメン（チェーン店：2026年4月）",
       "version": "1.0",
       "productId": "ramen-chain-202604",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-chain-202604.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-chain-202604.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -324,7 +336,8 @@
       "description": "ラーメン（冷凍：2026年4月）",
       "version": "1.0",
       "productId": "ramen-frozen-202604",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-frozen-202604.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-frozen-202604.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -342,7 +355,8 @@
       "description": "ラーメン（袋麺：2026年4月）",
       "version": "1.0",
       "productId": "ramen-instant-202604",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-instant-202604.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-instant-202604.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -360,7 +374,8 @@
       "description": "レトロゲーム（GBA）",
       "version": "1.0",
       "productId": "retro-game-gba",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-gba.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-gba.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -378,7 +393,8 @@
       "description": "レトロゲーム（メガドライブ）",
       "version": "1.0",
       "productId": "retro-game-md",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-md.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-md.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -396,7 +412,8 @@
       "description": "レトロゲーム（PCエンジン）",
       "version": "1.0",
       "productId": "retro-game-pce",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pce.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pce.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -414,7 +431,8 @@
       "description": "レトロゲーム（PS1）",
       "version": "1.0",
       "productId": "retro-game-ps1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps1.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps1.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -432,7 +450,8 @@
       "description": "レトロゲーム（PS2）",
       "version": "1.0",
       "productId": "retro-game-ps2",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps2.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps2.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -450,7 +469,8 @@
       "description": "レトロゲーム（スーファミ）",
       "version": "1.0",
       "productId": "retro-game-sfc",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-sfc.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-sfc.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -468,7 +488,8 @@
       "description": "日本酒（秋田）",
       "version": "1.0",
       "productId": "sake-akita",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-akita.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-akita.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -486,7 +507,8 @@
       "description": "日本酒（新潟）",
       "version": "1.0",
       "productId": "sake-niigata",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-niigata.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-niigata.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -504,7 +526,8 @@
       "description": "焼酎（一般）",
       "version": "1.0",
       "productId": "shochu-general",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/shochu-general.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/shochu-general.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -522,7 +545,8 @@
       "description": "日本茶（一般）",
       "version": "1.0",
       "productId": "tea-japanese-general",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-general.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-general.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -540,7 +564,8 @@
       "description": "日本茶（ペットボトル：2026年4月）",
       "version": "1.0",
       "productId": "tea-japanese-pet-202604",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-pet-202604.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-pet-202604.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -558,7 +583,8 @@
       "description": "ウイスキー（バーボン：一般）",
       "version": "1.0",
       "productId": "whisky-bourbon",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-bourbon.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-bourbon.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -576,7 +602,8 @@
       "description": "ウイスキー（日本）",
       "version": "1.0",
       "productId": "whisky-japan",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-japan.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-japan.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -594,7 +621,8 @@
       "description": "ウイスキー（スコッチ：一般）",
       "version": "1.0",
       "productId": "whisky-scotch",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-scotch.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-scotch.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -612,7 +640,8 @@
       "description": "スパークリングワイン",
       "version": "1.0",
       "productId": "wine-sparkling",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-sparkling.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-sparkling.ggchartpkg",
+      "discountPercent": 0
     },
     {
       "includedCharts": [
@@ -630,7 +659,8 @@
       "description": "ワイン（白）",
       "version": "1.0",
       "productId": "wine-white",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-white.ggchartpkg"
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-white.ggchartpkg",
+      "discountPercent": 0
     }
   ]
 }
