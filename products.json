@@ -1,636 +1,672 @@
 {
-  "updatedAt": "2026-04-10T00:18:35",
-  "version": "1.0",
   "products": [
     {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-gba",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（GBA）"
-        },
-        {
-          "chartId": "retro-game-ps1",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PS1）"
-        },
-        {
-          "chartId": "retro-game-ps2",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PS2）"
-        },
-        {
-          "chartId": "retro-game-sfc",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（スーファミ）"
-        },
-        {
-          "chartId": "retro-game-md",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（メガドライブ）"
-        },
-        {
-          "chartId": "retro-game-pce",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PCエンジン）"
-        }
-      ],
-      "productId": "retro-game-pack-v1",
-      "fileSize": 21079,
-      "thumbnailUrl": "",
-      "chartCount": 6,
-      "type": "pack",
-      "name": "レトロゲームパック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pack-v1.ggchartpkg",
-      "description": "GBA、PS1、PS2、SFC、MD、PCEの6チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "whisky-bourbon",
-          "isBuiltIn": false,
-          "name": "ウイスキー（バーボン：一般）"
-        },
-        {
-          "chartId": "whisky-japan",
-          "isBuiltIn": false,
-          "name": "ウイスキー（日本）"
-        },
-        {
-          "chartId": "whisky-scotch",
-          "isBuiltIn": false,
-          "name": "ウイスキー（スコッチ：一般）"
-        },
-        {
-          "chartId": "shochu-general",
-          "isBuiltIn": false,
-          "name": "焼酎（一般）"
-        }
-      ],
-      "productId": "whisky-shochu-pack-v1",
-      "fileSize": 11988,
-      "thumbnailUrl": "",
-      "chartCount": 4,
-      "type": "pack",
-      "name": "ウイスキー・焼酎パック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-shochu-pack-v1.ggchartpkg",
-      "description": "バーボン、日本、スコッチ、焼酎の4チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "sake-general",
-          "isBuiltIn": true,
-          "name": "日本酒（一般）"
-        },
-        {
-          "chartId": "sake-akita",
-          "isBuiltIn": false,
-          "name": "日本酒（秋田）"
-        },
-        {
-          "chartId": "sake-niigata",
-          "isBuiltIn": false,
-          "name": "日本酒（新潟）"
-        }
-      ],
-      "productId": "sake-pack-v1",
-      "fileSize": 6328,
-      "thumbnailUrl": "",
-      "chartCount": 3,
-      "type": "pack",
-      "name": "日本酒パック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-pack-v1.ggchartpkg",
-      "description": "日本酒（一般）、秋田、新潟の3チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "beer-japan",
-          "isBuiltIn": true,
-          "name": "ビール（日本）"
-        },
-        {
-          "chartId": "craft-beer-japan",
-          "isBuiltIn": false,
-          "name": "クラフトビール（日本で手に入りやすいもの）"
-        }
-      ],
-      "productId": "beer-pack-v1",
-      "fileSize": 3296,
-      "thumbnailUrl": "",
       "chartCount": 2,
-      "type": "pack",
-      "name": "ビールパック Vol.1",
+      "version": "1.0",
       "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/beer-pack-v1.ggchartpkg",
-      "description": "ビール（日本）、クラフトビール（日本）の2チャートセット",
-      "version": "1.0"
-    },
-    {
+      "productId": "beer-pack-v1",
+      "name": "ビールパック Vol.1",
       "includedCharts": [
         {
-          "chartId": "coffee-beans",
-          "isBuiltIn": false,
-          "name": "コーヒー（豆）"
+          "name": "ビール（日本）",
+          "chartId": "beer-japan",
+          "isBuiltIn": true
         },
         {
-          "chartId": "coffee-rtd-202604",
-          "isBuiltIn": false,
-          "name": "コーヒー（缶・ペットボトル：2026年4月）"
-        }
-      ],
-      "productId": "coffee-pack-v1",
-      "fileSize": 7008,
-      "thumbnailUrl": "",
-      "chartCount": 2,
-      "type": "pack",
-      "name": "コーヒーパック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-pack-v1.ggchartpkg",
-      "description": "コーヒー豆、RTD（缶・ペット）の2チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "ramen-cup-202604",
-          "isBuiltIn": true,
-          "name": "ラーメン（カップ麺：2026年4月）"
-        },
-        {
-          "chartId": "ramen-instant-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（袋麺：2026年4月）"
-        },
-        {
-          "chartId": "ramen-frozen-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（冷凍：2026年4月）"
-        },
-        {
-          "chartId": "ramen-chain-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（チェーン店：2026年4月）"
-        }
-      ],
-      "productId": "ramen-pack-v1",
-      "fileSize": 11558,
-      "thumbnailUrl": "",
-      "chartCount": 4,
-      "type": "pack",
-      "name": "ラーメンパック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-pack-v1.ggchartpkg",
-      "description": "カップ麺、袋麺、冷凍、チェーン店の4チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "tea-japanese-general",
-          "isBuiltIn": false,
-          "name": "日本茶（一般）"
-        },
-        {
-          "chartId": "tea-japanese-pet-202604",
-          "isBuiltIn": false,
-          "name": "日本茶（ペットボトル：2026年4月）"
-        }
-      ],
-      "productId": "tea-pack-v1",
-      "fileSize": 6605,
-      "thumbnailUrl": "",
-      "chartCount": 2,
-      "type": "pack",
-      "name": "日本茶パック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-pack-v1.ggchartpkg",
-      "description": "日本茶（一般）、ペットボトル緑茶の2チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "wine-red",
-          "isBuiltIn": true,
-          "name": "ワイン（赤）"
-        },
-        {
-          "chartId": "wine-white",
-          "isBuiltIn": false,
-          "name": "ワイン（白）"
-        },
-        {
-          "chartId": "wine-sparkling",
-          "isBuiltIn": false,
-          "name": "スパークリングワイン"
-        }
-      ],
-      "productId": "wine-pack-v1",
-      "fileSize": 7129,
-      "thumbnailUrl": "",
-      "chartCount": 3,
-      "type": "pack",
-      "name": "ワインパック Vol.1",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-pack-v1.ggchartpkg",
-      "description": "赤ワイン、白ワイン、スパークリングの3チャートセット",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "coffee-beans",
-          "isBuiltIn": false,
-          "name": "コーヒー（豆）"
-        }
-      ],
-      "productId": "coffee-beans",
-      "fileSize": 3786,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "コーヒー（豆）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-beans.ggchartpkg",
-      "description": "コーヒー（豆）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "coffee-rtd-202604",
-          "isBuiltIn": false,
-          "name": "コーヒー（缶・ペットボトル：2026年4月）"
-        }
-      ],
-      "productId": "coffee-rtd-202604",
-      "fileSize": 3470,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "コーヒー（缶・ペットボトル：2026年4月）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-rtd-202604.ggchartpkg",
-      "description": "コーヒー（缶・ペットボトル：2026年4月）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
+          "name": "クラフトビール（日本で手に入りやすいもの）",
           "chartId": "craft-beer-japan",
-          "isBuiltIn": false,
-          "name": "クラフトビール（日本で手に入りやすいもの）"
+          "isBuiltIn": false
         }
       ],
-      "productId": "craft-beer-japan",
-      "fileSize": 3234,
+      "type": "pack",
       "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "クラフトビール（日本で手に入りやすいもの）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/craft-beer-japan.ggchartpkg",
-      "description": "クラフトビール（日本で手に入りやすいもの）",
-      "version": "1.0"
+      "description": "ビール（日本）、クラフトビール（日本）の2チャートセット",
+      "fileSize": 3298
     },
     {
+      "chartCount": 3,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-pack-v1.ggchartpkg",
+      "productId": "sake-pack-v1",
+      "name": "日本酒パック Vol.1",
       "includedCharts": [
         {
-          "chartId": "ramen-chain-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（チェーン店：2026年4月）"
-        }
-      ],
-      "productId": "ramen-chain-202604",
-      "fileSize": 4866,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ラーメン（チェーン店：2026年4月）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-chain-202604.ggchartpkg",
-      "description": "ラーメン（チェーン店：2026年4月）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
+          "name": "日本酒（一般）",
+          "chartId": "sake-general",
+          "isBuiltIn": false
+        },
         {
-          "chartId": "ramen-frozen-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（冷凍：2026年4月）"
-        }
-      ],
-      "productId": "ramen-frozen-202604",
-      "fileSize": 3563,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ラーメン（冷凍：2026年4月）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-frozen-202604.ggchartpkg",
-      "description": "ラーメン（冷凍：2026年4月）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "ramen-instant-202604",
-          "isBuiltIn": false,
-          "name": "ラーメン（袋麺：2026年4月）"
-        }
-      ],
-      "productId": "ramen-instant-202604",
-      "fileSize": 3696,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ラーメン（袋麺：2026年4月）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-instant-202604.ggchartpkg",
-      "description": "ラーメン（袋麺：2026年4月）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-gba",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（GBA）"
-        }
-      ],
-      "productId": "retro-game-gba",
-      "fileSize": 3935,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（GBA）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-gba.ggchartpkg",
-      "description": "レトロゲーム（GBA）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-md",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（メガドライブ）"
-        }
-      ],
-      "productId": "retro-game-md",
-      "fileSize": 3560,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（メガドライブ）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-md.ggchartpkg",
-      "description": "レトロゲーム（メガドライブ）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-pce",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PCエンジン）"
-        }
-      ],
-      "productId": "retro-game-pce",
-      "fileSize": 3422,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（PCエンジン）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pce.ggchartpkg",
-      "description": "レトロゲーム（PCエンジン）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-ps1",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PS1）"
-        }
-      ],
-      "productId": "retro-game-ps1",
-      "fileSize": 4043,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（PS1）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps1.ggchartpkg",
-      "description": "レトロゲーム（PS1）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-ps2",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（PS2）"
-        }
-      ],
-      "productId": "retro-game-ps2",
-      "fileSize": 3805,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（PS2）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps2.ggchartpkg",
-      "description": "レトロゲーム（PS2）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "retro-game-sfc",
-          "isBuiltIn": false,
-          "name": "レトロゲーム（スーファミ）"
-        }
-      ],
-      "productId": "retro-game-sfc",
-      "fileSize": 3870,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "レトロゲーム（スーファミ）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-sfc.ggchartpkg",
-      "description": "レトロゲーム（スーファミ）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
+          "name": "日本酒（秋田）",
           "chartId": "sake-akita",
-          "isBuiltIn": false,
-          "name": "日本酒（秋田）"
-        }
-      ],
-      "productId": "sake-akita",
-      "fileSize": 3303,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "日本酒（秋田）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-akita.ggchartpkg",
-      "description": "日本酒（秋田）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
+          "isBuiltIn": false
+        },
         {
+          "name": "日本酒（新潟）",
           "chartId": "sake-niigata",
-          "isBuiltIn": false,
-          "name": "日本酒（新潟）"
+          "isBuiltIn": false
         }
       ],
-      "productId": "sake-niigata",
-      "fileSize": 3237,
+      "type": "pack",
       "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "日本酒（新潟）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-niigata.ggchartpkg",
-      "description": "日本酒（新潟）",
-      "version": "1.0"
+      "description": "日本酒（一般）、秋田、新潟の3チャートセット",
+      "fileSize": 10065
     },
     {
+      "chartCount": 6,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pack-v1.ggchartpkg",
+      "productId": "retro-game-pack-v1",
+      "name": "レトロゲームパック Vol.1",
       "includedCharts": [
         {
-          "chartId": "shochu-general",
-          "isBuiltIn": false,
-          "name": "焼酎（一般）"
+          "name": "レトロゲーム（GBA）",
+          "chartId": "retro-game-gba",
+          "isBuiltIn": false
+        },
+        {
+          "name": "レトロゲーム（PS1）",
+          "chartId": "retro-game-ps1",
+          "isBuiltIn": false
+        },
+        {
+          "name": "レトロゲーム（PS2）",
+          "chartId": "retro-game-ps2",
+          "isBuiltIn": false
+        },
+        {
+          "name": "レトロゲーム（スーファミ）",
+          "chartId": "retro-game-sfc",
+          "isBuiltIn": false
+        },
+        {
+          "name": "レトロゲーム（メガドライブ）",
+          "chartId": "retro-game-md",
+          "isBuiltIn": false
+        },
+        {
+          "name": "レトロゲーム（PCエンジン）",
+          "chartId": "retro-game-pce",
+          "isBuiltIn": false
         }
       ],
-      "productId": "shochu-general",
-      "fileSize": 2941,
+      "type": "pack",
       "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "焼酎（一般）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/shochu-general.ggchartpkg",
-      "description": "焼酎（一般）",
-      "version": "1.0"
+      "description": "GBA、PS1、PS2、SFC、MD、PCEの6チャートセット",
+      "fileSize": 21075
     },
     {
+      "chartCount": 2,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-pack-v1.ggchartpkg",
+      "productId": "coffee-pack-v1",
+      "name": "コーヒーパック Vol.1",
       "includedCharts": [
         {
+          "name": "コーヒー（豆）",
+          "chartId": "coffee-beans",
+          "isBuiltIn": false
+        },
+        {
+          "name": "コーヒー（缶・ペットボトル：2026年4月）",
+          "chartId": "coffee-rtd-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "pack",
+      "thumbnailUrl": "",
+      "description": "コーヒー豆、RTD（缶・ペット）の2チャートセット",
+      "fileSize": 7008
+    },
+    {
+      "chartCount": 4,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-pack-v1.ggchartpkg",
+      "productId": "ramen-pack-v1",
+      "name": "ラーメンパック Vol.1",
+      "includedCharts": [
+        {
+          "name": "ラーメン（カップ麺：2026年4月）",
+          "chartId": "ramen-cup-202604",
+          "isBuiltIn": true
+        },
+        {
+          "name": "ラーメン（袋麺：2026年4月）",
+          "chartId": "ramen-instant-202604",
+          "isBuiltIn": false
+        },
+        {
+          "name": "ラーメン（冷凍：2026年4月）",
+          "chartId": "ramen-frozen-202604",
+          "isBuiltIn": false
+        },
+        {
+          "name": "ラーメン（チェーン店：2026年4月）",
+          "chartId": "ramen-chain-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "pack",
+      "thumbnailUrl": "",
+      "description": "カップ麺、袋麺、冷凍、チェーン店の4チャートセット",
+      "fileSize": 11555
+    },
+    {
+      "chartCount": 2,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-pack-v1.ggchartpkg",
+      "productId": "tea-pack-v1",
+      "name": "日本茶パック Vol.1",
+      "includedCharts": [
+        {
+          "name": "日本茶（一般）",
           "chartId": "tea-japanese-general",
-          "isBuiltIn": false,
-          "name": "日本茶（一般）"
-        }
-      ],
-      "productId": "tea-japanese-general",
-      "fileSize": 3568,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "日本茶（一般）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-general.ggchartpkg",
-      "description": "日本茶（一般）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
+          "isBuiltIn": false
+        },
         {
+          "name": "日本茶（ペットボトル：2026年4月）",
           "chartId": "tea-japanese-pet-202604",
-          "isBuiltIn": false,
-          "name": "日本茶（ペットボトル：2026年4月）"
+          "isBuiltIn": false
         }
       ],
-      "productId": "tea-japanese-pet-202604",
-      "fileSize": 3292,
+      "type": "pack",
       "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "日本茶（ペットボトル：2026年4月）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-pet-202604.ggchartpkg",
-      "description": "日本茶（ペットボトル：2026年4月）",
-      "version": "1.0"
+      "description": "日本茶（一般）、ペットボトル緑茶の2チャートセット",
+      "fileSize": 6605
     },
     {
+      "chartCount": 3,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-pack-v1.ggchartpkg",
+      "productId": "wine-pack-v1",
+      "name": "ワインパック Vol.1",
       "includedCharts": [
         {
-          "chartId": "whisky-bourbon",
-          "isBuiltIn": false,
-          "name": "ウイスキー（バーボン：一般）"
-        }
-      ],
-      "productId": "whisky-bourbon",
-      "fileSize": 2994,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ウイスキー（バーボン：一般）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-bourbon.ggchartpkg",
-      "description": "ウイスキー（バーボン：一般）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
+          "name": "ワイン（赤）",
+          "chartId": "wine-red",
+          "isBuiltIn": false
+        },
         {
-          "chartId": "whisky-japan",
-          "isBuiltIn": false,
-          "name": "ウイスキー（日本）"
-        }
-      ],
-      "productId": "whisky-japan",
-      "fileSize": 3135,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ウイスキー（日本）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-japan.ggchartpkg",
-      "description": "ウイスキー（日本）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "whisky-scotch",
-          "isBuiltIn": false,
-          "name": "ウイスキー（スコッチ：一般）"
-        }
-      ],
-      "productId": "whisky-scotch",
-      "fileSize": 3788,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "ウイスキー（スコッチ：一般）",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-scotch.ggchartpkg",
-      "description": "ウイスキー（スコッチ：一般）",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
-          "chartId": "wine-sparkling",
-          "isBuiltIn": false,
-          "name": "スパークリングワイン"
-        }
-      ],
-      "productId": "wine-sparkling",
-      "fileSize": 3797,
-      "thumbnailUrl": "",
-      "chartCount": 1,
-      "type": "chart",
-      "name": "スパークリングワイン",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-sparkling.ggchartpkg",
-      "description": "スパークリングワイン",
-      "version": "1.0"
-    },
-    {
-      "includedCharts": [
-        {
+          "name": "ワイン（白）",
           "chartId": "wine-white",
-          "isBuiltIn": false,
-          "name": "ワイン（白）"
+          "isBuiltIn": false
+        },
+        {
+          "name": "スパークリングワイン",
+          "chartId": "wine-sparkling",
+          "isBuiltIn": false
         }
       ],
-      "productId": "wine-white",
-      "fileSize": 3550,
+      "type": "pack",
       "thumbnailUrl": "",
+      "description": "赤ワイン、白ワイン、スパークリングの3チャートセット",
+      "fileSize": 10556
+    },
+    {
+      "chartCount": 4,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-shochu-pack-v1.ggchartpkg",
+      "productId": "whisky-shochu-pack-v1",
+      "name": "ウイスキー・焼酎パック Vol.1",
+      "includedCharts": [
+        {
+          "name": "ウイスキー（バーボン：一般）",
+          "chartId": "whisky-bourbon",
+          "isBuiltIn": false
+        },
+        {
+          "name": "ウイスキー（日本）",
+          "chartId": "whisky-japan",
+          "isBuiltIn": false
+        },
+        {
+          "name": "ウイスキー（スコッチ：一般）",
+          "chartId": "whisky-scotch",
+          "isBuiltIn": false
+        },
+        {
+          "name": "焼酎（一般）",
+          "chartId": "shochu-general",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "pack",
+      "thumbnailUrl": "",
+      "description": "バーボン、日本、スコッチ、焼酎の4チャートセット",
+      "fileSize": 11985
+    },
+    {
       "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-beans.ggchartpkg",
+      "productId": "coffee-beans",
+      "name": "コーヒー（豆）",
+      "includedCharts": [
+        {
+          "name": "コーヒー（豆）",
+          "chartId": "coffee-beans",
+          "isBuiltIn": false
+        }
+      ],
       "type": "chart",
-      "name": "ワイン（白）",
+      "thumbnailUrl": "",
+      "description": "コーヒー（豆）",
+      "fileSize": 3782
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/coffee-rtd-202604.ggchartpkg",
+      "productId": "coffee-rtd-202604",
+      "name": "コーヒー（缶・ペットボトル：2026年4月）",
+      "includedCharts": [
+        {
+          "name": "コーヒー（缶・ペットボトル：2026年4月）",
+          "chartId": "coffee-rtd-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "コーヒー（缶・ペットボトル：2026年4月）",
+      "fileSize": 3466
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/craft-beer-japan.ggchartpkg",
+      "productId": "craft-beer-japan",
+      "name": "クラフトビール（日本で手に入りやすいもの）",
+      "includedCharts": [
+        {
+          "name": "クラフトビール（日本で手に入りやすいもの）",
+          "chartId": "craft-beer-japan",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "クラフトビール（日本で手に入りやすいもの）",
+      "fileSize": 3230
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-chain-202604.ggchartpkg",
+      "productId": "ramen-chain-202604",
+      "name": "ラーメン（チェーン店：2026年4月）",
+      "includedCharts": [
+        {
+          "name": "ラーメン（チェーン店：2026年4月）",
+          "chartId": "ramen-chain-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ラーメン（チェーン店：2026年4月）",
+      "fileSize": 4862
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-frozen-202604.ggchartpkg",
+      "productId": "ramen-frozen-202604",
+      "name": "ラーメン（冷凍：2026年4月）",
+      "includedCharts": [
+        {
+          "name": "ラーメン（冷凍：2026年4月）",
+          "chartId": "ramen-frozen-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ラーメン（冷凍：2026年4月）",
+      "fileSize": 3558
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-instant-202604.ggchartpkg",
+      "productId": "ramen-instant-202604",
+      "name": "ラーメン（袋麺：2026年4月）",
+      "includedCharts": [
+        {
+          "name": "ラーメン（袋麺：2026年4月）",
+          "chartId": "ramen-instant-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ラーメン（袋麺：2026年4月）",
+      "fileSize": 3691
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-gba.ggchartpkg",
+      "productId": "retro-game-gba",
+      "name": "レトロゲーム（GBA）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（GBA）",
+          "chartId": "retro-game-gba",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（GBA）",
+      "fileSize": 3931
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-md.ggchartpkg",
+      "productId": "retro-game-md",
+      "name": "レトロゲーム（メガドライブ）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（メガドライブ）",
+          "chartId": "retro-game-md",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（メガドライブ）",
+      "fileSize": 3555
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-pce.ggchartpkg",
+      "productId": "retro-game-pce",
+      "name": "レトロゲーム（PCエンジン）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（PCエンジン）",
+          "chartId": "retro-game-pce",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（PCエンジン）",
+      "fileSize": 3418
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps1.ggchartpkg",
+      "productId": "retro-game-ps1",
+      "name": "レトロゲーム（PS1）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（PS1）",
+          "chartId": "retro-game-ps1",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（PS1）",
+      "fileSize": 4039
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-ps2.ggchartpkg",
+      "productId": "retro-game-ps2",
+      "name": "レトロゲーム（PS2）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（PS2）",
+          "chartId": "retro-game-ps2",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（PS2）",
+      "fileSize": 3801
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/retro-game-sfc.ggchartpkg",
+      "productId": "retro-game-sfc",
+      "name": "レトロゲーム（スーファミ）",
+      "includedCharts": [
+        {
+          "name": "レトロゲーム（スーファミ）",
+          "chartId": "retro-game-sfc",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "レトロゲーム（スーファミ）",
+      "fileSize": 3865
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-akita.ggchartpkg",
+      "productId": "sake-akita",
+      "name": "日本酒（秋田）",
+      "includedCharts": [
+        {
+          "name": "日本酒（秋田）",
+          "chartId": "sake-akita",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "日本酒（秋田）",
+      "fileSize": 3298
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-general.ggchartpkg",
+      "productId": "sake-general",
+      "name": "日本酒（一般）",
+      "includedCharts": [
+        {
+          "name": "日本酒（一般）",
+          "chartId": "sake-general",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "日本酒（一般）",
+      "fileSize": 4066
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/sake-niigata.ggchartpkg",
+      "productId": "sake-niigata",
+      "name": "日本酒（新潟）",
+      "includedCharts": [
+        {
+          "name": "日本酒（新潟）",
+          "chartId": "sake-niigata",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "日本酒（新潟）",
+      "fileSize": 3233
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/shochu-general.ggchartpkg",
+      "productId": "shochu-general",
+      "name": "焼酎（一般）",
+      "includedCharts": [
+        {
+          "name": "焼酎（一般）",
+          "chartId": "shochu-general",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "焼酎（一般）",
+      "fileSize": 2936
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-general.ggchartpkg",
+      "productId": "tea-japanese-general",
+      "name": "日本茶（一般）",
+      "includedCharts": [
+        {
+          "name": "日本茶（一般）",
+          "chartId": "tea-japanese-general",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "日本茶（一般）",
+      "fileSize": 3563
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/tea-japanese-pet-202604.ggchartpkg",
+      "productId": "tea-japanese-pet-202604",
+      "name": "日本茶（ペットボトル：2026年4月）",
+      "includedCharts": [
+        {
+          "name": "日本茶（ペットボトル：2026年4月）",
+          "chartId": "tea-japanese-pet-202604",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "日本茶（ペットボトル：2026年4月）",
+      "fileSize": 3287
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-bourbon.ggchartpkg",
+      "productId": "whisky-bourbon",
+      "name": "ウイスキー（バーボン：一般）",
+      "includedCharts": [
+        {
+          "name": "ウイスキー（バーボン：一般）",
+          "chartId": "whisky-bourbon",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ウイスキー（バーボン：一般）",
+      "fileSize": 2989
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-japan.ggchartpkg",
+      "productId": "whisky-japan",
+      "name": "ウイスキー（日本）",
+      "includedCharts": [
+        {
+          "name": "ウイスキー（日本）",
+          "chartId": "whisky-japan",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ウイスキー（日本）",
+      "fileSize": 3130
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/whisky-scotch.ggchartpkg",
+      "productId": "whisky-scotch",
+      "name": "ウイスキー（スコッチ：一般）",
+      "includedCharts": [
+        {
+          "name": "ウイスキー（スコッチ：一般）",
+          "chartId": "whisky-scotch",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ウイスキー（スコッチ：一般）",
+      "fileSize": 3784
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-red.ggchartpkg",
+      "productId": "wine-red",
+      "name": "ワイン（赤）",
+      "includedCharts": [
+        {
+          "name": "ワイン（赤）",
+          "chartId": "wine-red",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "ワイン（赤）",
+      "fileSize": 3747
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
+      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-sparkling.ggchartpkg",
+      "productId": "wine-sparkling",
+      "name": "スパークリングワイン",
+      "includedCharts": [
+        {
+          "name": "スパークリングワイン",
+          "chartId": "wine-sparkling",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
+      "description": "スパークリングワイン",
+      "fileSize": 3792
+    },
+    {
+      "chartCount": 1,
+      "version": "1.0",
       "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/wine-white.ggchartpkg",
+      "productId": "wine-white",
+      "name": "ワイン（白）",
+      "includedCharts": [
+        {
+          "name": "ワイン（白）",
+          "chartId": "wine-white",
+          "isBuiltIn": false
+        }
+      ],
+      "type": "chart",
+      "thumbnailUrl": "",
       "description": "ワイン（白）",
-      "version": "1.0"
+      "fileSize": 3545
     }
-  ]
+  ],
+  "updatedAt": "2026-05-10T15:20:20",
+  "version": "1.0"
 }
