@@ -139,7 +139,7 @@
       "fileSize": 7008
     },
     {
-      "chartCount": 4,
+      "chartCount": 3,
       "version": "1.0",
       "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-pack-v1.ggchartpkg",
       "productId": "ramen-pack-v1",
@@ -159,12 +159,6 @@
           "isBuiltIn": false
         },
         {
-          "name": "ラーメン（冷凍：2026年4月）",
-          "nameEn": "Frozen Ramen (April 2026)",
-          "chartId": "ramen-frozen-202604",
-          "isBuiltIn": false
-        },
-        {
           "name": "ラーメン（チェーン店：2026年4月）",
           "nameEn": "Ramen Chain Restaurants (April 2026)",
           "chartId": "ramen-chain-202604",
@@ -173,8 +167,8 @@
       ],
       "type": "pack",
       "thumbnailUrl": "",
-      "description": "カップ麺、袋麺、冷凍、チェーン店の4チャートセット",
-      "descriptionEn": "Cup Noodle, Instant, Frozen, Chain Restaurant — 4-chart set",
+      "description": "カップ麺、袋麺、チェーン店の3チャートセット",
+      "descriptionEn": "Cup Noodle, Instant, Chain Restaurant — 3-chart set",
       "fileSize": 11555
     },
     {
@@ -359,27 +353,6 @@
       "description": "ラーメン（チェーン店：2026年4月）",
       "descriptionEn": "Ramen Chain Restaurants (April 2026)",
       "fileSize": 4862
-    },
-    {
-      "chartCount": 1,
-      "version": "1.0",
-      "downloadUrl": "https://github.com/mcdbcherry/trahcgg-content/releases/download/v1.0/ramen-frozen-202604.ggchartpkg",
-      "productId": "ramen-frozen-202604",
-      "name": "ラーメン（冷凍：2026年4月）",
-      "nameEn": "Frozen Ramen (April 2026)",
-      "includedCharts": [
-        {
-          "name": "ラーメン（冷凍：2026年4月）",
-          "nameEn": "Frozen Ramen (April 2026)",
-          "chartId": "ramen-frozen-202604",
-          "isBuiltIn": false
-        }
-      ],
-      "type": "chart",
-      "thumbnailUrl": "",
-      "description": "ラーメン（冷凍：2026年4月）",
-      "descriptionEn": "Frozen Ramen (April 2026)",
-      "fileSize": 3558
     },
     {
       "chartCount": 1,
